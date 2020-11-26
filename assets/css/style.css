@@ -296,3 +296,11 @@ input, select {
   line-height: 16px;
   font-size: 12px;
 }
+.foot-part a:hover {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ececec;
+  border-bottom-color: #01bfbd;
+}
+.link-color:hover {
+  color: #01bfbd;
+}
